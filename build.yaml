@@ -20,4 +20,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: two_percent_milk
+    shield: waifu_left
+  - board: nice_nano_v2
+    shield: waifu_right

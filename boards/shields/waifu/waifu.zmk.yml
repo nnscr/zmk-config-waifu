@@ -1,0 +1,11 @@
+file_format: "1"
+id: waifu
+name: WAIFU
+type: shield
+url: https://github.com/nnscr/zmk-config-waifu
+requires: [nice_nano_v2]
+features:
+  - keys
+siblings:
+  - waifu_left
+  - waifu_right
