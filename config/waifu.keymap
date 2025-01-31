@@ -267,7 +267,7 @@
 
         circumflex {
             bindings = <&kp NON_US_BSLH>;
-            key-positions = <6 5>;
+            key-positions = <15 16>;
         };
 
         double_quote {
