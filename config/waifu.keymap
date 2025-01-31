@@ -263,13 +263,13 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-&kp N1                 &kp N2          &kp N3        &kp N4        &kp N5     &kp N6   &kp N7       &kp N8          &kp N9      &kp N0
-&mt LGUI Q             &mt LEFT_ALT W  &mt LSHIFT F  &kp P         &kp B      &kp J    &kp L        &mt RSHFT U     &mt RALT Z  &mt RGUI Y
-&mt LCTRL A            &mt LGUI R      &mt LALT S    &mt LSHFT T   &kp G      &kp M    &mt RSHFT N  &mt RALT E      &mt RGUI I  &mt RCTRL O
-&mt LS(LCTRL) LS(DOT)  &kp X           &kp C         &kp D         &kp V      &kp K    &kp H        &kp COMMA       &kp DOT     &kp FSLH
-                       &kp APOS        &kp MINUS                                                    &kp LBKT        &sk SEMI
-                                       &kp ESC       &lt 1 SPACE   &kp TAB    &kp RET  &lt 2 BSPC   &sk LEFT_SHIFT
-                                       &kp LEFT_ALT  &kp LEFT_GUI  &kp LCTRL  &kp RET  &kp BSPC     &bt BT_CLR
+&kp N1                 &kp N2          &kp N3        &kp N4        &kp N5      &kp N6   &kp N7       &kp N8          &kp N9      &kp N0
+&mt LGUI Q             &mt LEFT_ALT W  &mt LSHIFT F  &kp P         &kp B       &kp J    &kp L        &mt RSHFT U     &mt RALT Z  &mt RGUI Y
+&mt LCTRL A            &mt LGUI R      &mt LALT S    &mt LSHFT T   &kp G       &kp M    &mt RSHFT N  &mt RALT E      &mt RGUI I  &mt RCTRL O
+&mt LS(LCTRL) LS(DOT)  &kp X           &kp C         &kp D         &kp V       &kp K    &kp H        &kp COMMA       &kp DOT     &kp FSLH
+                       &kp APOS        &kp MINUS                                                     &kp LBKT        &sk SEMI
+                                       &lt 3 TAB     &lt 1 SPACE   &kp ESCAPE  &kp RET  &lt 2 BSPC   &sk LEFT_SHIFT
+                                       &kp LEFT_ALT  &kp LEFT_GUI  &kp LCTRL   &kp RET  &kp BSPC     &bt BT_CLR
             >;
         };
 
