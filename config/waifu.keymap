@@ -232,12 +232,12 @@
 
         left_bootloader {
             bindings = <&bootloader>;
-            key-positions = <0 1 2>;
+            key-positions = <31 32 33 34>;
         };
 
         right_bootloader {
             bindings = <&bootloader>;
-            key-positions = <9 8 7>;
+            key-positions = <35 36 37 38>;
         };
 
         semicolon {
@@ -319,7 +319,7 @@
 &mt LS(LCTRL) LS(DOT)  &kp X           &kp C         &kp D         &kp V       &kp K    &kp H        &kp COMMA       &kp DOT     &kp FSLH
                        &kp APOS        &kp MINUS                                                     &kp LBKT        &sk SEMI
                                        &lt 3 TAB     &lt 1 SPACE   &kp ESCAPE  &kp RET  &lt 2 BSPC   &sk LEFT_SHIFT
-                                       &kp LEFT_ALT  &kp LEFT_GUI  &kp LCTRL   &kp RET  &kp BSPC     &bt BT_CLR
+                                       &kp LEFT_ALT  &kp LEFT_GUI  &kp LCTRL   &kp RET  &kp BSPC     &kp LSHIFT
             >;
         };
 
