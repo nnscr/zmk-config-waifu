@@ -4,7 +4,7 @@
 if SHIELD_HOMY_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "Wannabe Weeb Keeb"
+    default "Homy Weeb Keeb"
     
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
