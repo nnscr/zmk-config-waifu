@@ -1,0 +1,11 @@
+file_format: "1"
+id: homy
+name: HOMY
+type: shield
+url: https://github.com/nnscr/zmk-config-waifu
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
+siblings:
+  - homy_left
+  - homy_right
