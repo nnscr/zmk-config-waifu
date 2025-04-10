@@ -237,12 +237,12 @@
 
         right_bootloader {
             bindings = <&bootloader>;
-            key-positions = <36 37 38 7 8 9>;
+            key-positions = <7 8 9>;
         };
 
         semicolon {
             bindings = <&kp LS(COMMA)>;
-            key-positions = <37 38 27 28>;
+            key-positions = <27 28>;
         };
 
         equals {
@@ -264,7 +264,7 @@
 
         pound {
             bindings = <&kp NUHS>;
-            key-positions = <37 36 26 27>;
+            key-positions = <26 27>;
         };
 
         circumflex {
