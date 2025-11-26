@@ -291,6 +291,21 @@
             bindings = <&kp LS(NUMBER_1)>;
             key-positions = <11 12 13>;
         };
+
+        arr_ptr {
+            bindings = <&arr_ptr>;
+            key-positions = <28 29>;
+            layers = <0>;
+        };
+    };
+
+    macros {
+        arr_ptr: arr_ptr {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp SLASH &kp LS(GRAVE)>;
+            label = "ARR_PTR";
+        };
     };
 
     keymap {
